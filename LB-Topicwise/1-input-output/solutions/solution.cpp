@@ -60,6 +60,7 @@ using namespace std;
 
 
 // solution 8. Write a program to calculate the square of a given number. The number should be entered by the user.
+
 // int main(){
 //     int a;
 //     cout<<"Enter a number:";
